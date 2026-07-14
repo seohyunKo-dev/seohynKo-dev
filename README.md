@@ -1,4 +1,3 @@
-# seohynKo-dev
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=200&section=header&text=Welcome%20to%20서현's%20Profile!&fontSize=36&fontColor=6B4C57&animation=fadeIn&fontAlignY=38" />
@@ -14,7 +13,7 @@
 
 ## 🍡 About Me
 
-> 데이터사이언스를 공부하고 있습니다. 🐣
+> 데이터사이언스를 공부하고 있습니다 🐣
 
 <br/>
 
@@ -33,11 +32,34 @@
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=seohyunKo-dev&show_icons=true&hide_border=true&bg_color=FFF6FA&title_color=F7A8B8&icon_color=F7A8B8&text_color=6B4C57&ring_color=F7A8B8" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seohyunKo-dev&hide_border=true&background=FFF6FA&stroke=F7A8B8&ring=F7A8B8&fire=F7A8B8&currStreakLabel=6B4C57&currStreakNum=6B4C57&sideNums=6B4C57&sideLabels=6B4C57&dates=B08C97" width="48%" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunKo-dev&layout=compact&hide_border=true&bg_color=FFF6FA&title_color=F7A8B8&text_color=6B4C57" width="55%" />
+</div>
+
+<br/>
+
+## 🐾 Just Vibing
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+</div>
+
+<br/>
+
 ## 🌷 Contact
 
 <div align="center">
 
-<a href="mailto:sashajjang@gmail.com">
+<a href="mailto:your_email@example.com">
   <img src="https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=6B4C57&labelColor=FFEAF2" />
 </a>
 <a href="https://www.linkedin.com/in/your-linkedin/">
